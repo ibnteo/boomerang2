@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><svg viewBox="0 0 102 32" width="500" class="mb-3 me-3" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="100" height="30" fill="#fff"/>
+<text x="6" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F1</text>
+<text x="16" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F2</text>
+<text x="26" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F3</text>
+<text x="36" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F4</text>
+<text x="46" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">PrnScr</text>
+<text x="6" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F5</text>
+<text x="16" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F6</text>
+<text x="26" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F7</text>
+<text x="36" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F8</text>
+<text x="46" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">Pause</text>
+<rect x="51" y="11" width="10" height="10" fill="#cdc"/>
+<text x="6" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F9</text>
+<text x="16" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F10</text>
+<text x="26" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F11</text>
+<text x="36" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">F12</text>
+<text x="46" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">Enter</text>
+<line x1="51" y1="1" x2="51" y2="31" stroke="#000" stroke-width="0.2"/>
+<line x1="11" y1="1" x2="11" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="61" y1="1" x2="61" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="21" y1="1" x2="21" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="71" y1="1" x2="71" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="31" y1="1" x2="31" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="81" y1="1" x2="81" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="41" y1="1" x2="41" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="91" y1="1" x2="91" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="51" y1="1" x2="51" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="101" y1="1" x2="101" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="1" y1="11" x2="101" y2="11" stroke="#555" stroke-width="0.1"/>
+<line x1="1" y1="21" x2="101" y2="21" stroke="#555" stroke-width="0.1"/>
+<line x1="1" y1="31" x2="101" y2="31" stroke="#555" stroke-width="0.1"/>
+<rect x="1" y="1" width="100" height="30" fill="none" stroke="#000" stroke-width="0.2"/>
+</svg>

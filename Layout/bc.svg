@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><svg viewBox="0 0 102 32" width="500" class="mb-3 me-3" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="100" height="30" fill="#fff"/>
+<text x="6" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">й</text>
+<text x="16" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">у</text>
+<text x="26" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">и</text>
+<text x="36" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">е</text>
+<text x="46" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">г</text>
+<text x="56" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ш</text>
+<text x="66" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">к</text>
+<text x="76" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">н</text>
+<text x="86" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">д</text>
+<text x="96" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">з</text>
+<text x="6" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ь</text>
+<text x="16" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ы</text>
+<text x="26" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">о</text>
+<text x="36" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">а</text>
+<text x="46" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">п</text>
+<text x="56" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">р</text>
+<text x="66" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">т</text>
+<text x="76" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">с</text>
+<text x="86" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">в</text>
+<text x="96" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">л</text>
+<text x="6" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">я</text>
+<text x="16" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ч</text>
+<text x="26" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ц</text>
+<text x="36" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">х</text>
+<text x="46" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">Nav</text>
+<text x="56" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#000">Sp</text>
+<text x="66" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">м</text>
+<text x="76" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">б</text>
+<text x="86" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ю</text>
+<text x="96" y="26.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="4" fill="#000">ж</text>
+<text x="43" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#777">ё</text>
+<text x="59" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#777">щ</text>
+<text x="43" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#777">э</text>
+<text x="59" y="16.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#777">ф</text>
+<text x="99" y="6.3" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="3" fill="#777">ъ</text>
+<line x1="51" y1="1" x2="51" y2="31" stroke="#000" stroke-width="0.2"/>
+<line x1="11" y1="1" x2="11" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="61" y1="1" x2="61" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="21" y1="1" x2="21" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="71" y1="1" x2="71" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="31" y1="1" x2="31" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="81" y1="1" x2="81" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="41" y1="1" x2="41" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="91" y1="1" x2="91" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="51" y1="1" x2="51" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="101" y1="1" x2="101" y2="31" stroke="#555" stroke-width="0.1"/>
+<line x1="1" y1="11" x2="101" y2="11" stroke="#555" stroke-width="0.1"/>
+<line x1="1" y1="21" x2="101" y2="21" stroke="#555" stroke-width="0.1"/>
+<line x1="1" y1="31" x2="101" y2="31" stroke="#555" stroke-width="0.1"/>
+<rect x="1" y="1" width="100" height="30" fill="none" stroke="#000" stroke-width="0.2"/>
+</svg>
